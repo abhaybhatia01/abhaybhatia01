@@ -3,7 +3,7 @@
 - 📚 I’m <b> student </b> -<i>I learn what i find interesting ,literally anything.</i>
 - 🌱 I’m <b> creator </b> -<i>I beleave there is too much to create in this little world.</i>
 - 💞️ I’m <b> designer </b> -<i> I design with code.</i>
-- 📫 I’m on <b> linkedin </b> <a href="www.linkedin.com/in/abhaybhatia01"> CONNECT <a/>
+- 📫 I’m on <b> linkedin </b> <a href="httpp::/www.linkedin.com/in/abhaybhatia01"> CONNECT <a/>
 
 
 <!---

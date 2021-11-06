@@ -1,5 +1,5 @@
  - <h1> 💐WELCOME💐 </H1>
-- 👋 Hi, I’m <b> Abhay </b>
+- 👋 Hi, I’m <b> Abhay </b> . I am still learning.
 - 📚 I’m <b> student </b> -<i>I learn what i find interesting ,literally anything.</i>
 - 🌱 I’m <b> creator </b> -<i>I beleave there is too much to create in this little world.</i>
 - 💞️ I’m <b> designer </b> -<i> I design with code.</i>
